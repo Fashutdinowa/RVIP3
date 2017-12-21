@@ -1,0 +1,6 @@
+C:\Users\Фасхутдинова Диляра\Desktop\Мои документы\Образование\RVIP\SocketTcpClient\bin\Debug\SocketTcpClient.exe.config
+C:\Users\Фасхутдинова Диляра\Desktop\Мои документы\Образование\RVIP\SocketTcpClient\bin\Debug\SocketTcpClient.exe
+C:\Users\Фасхутдинова Диляра\Desktop\Мои документы\Образование\RVIP\SocketTcpClient\bin\Debug\SocketTcpClient.pdb
+C:\Users\Фасхутдинова Диляра\Desktop\Мои документы\Образование\RVIP\SocketTcpClient\obj\Debug\SocketTcpClient.exe
+C:\Users\Фасхутдинова Диляра\Desktop\Мои документы\Образование\RVIP\SocketTcpClient\obj\Debug\SocketTcpClient.pdb
+C:\Users\Фасхутдинова Диляра\Desktop\Мои документы\Образование\RVIP\SocketTcpClient\obj\Debug\SocketTcpClient.csprojResolveAssemblyReference.cache

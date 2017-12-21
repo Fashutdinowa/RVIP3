@@ -1,0 +1,6 @@
+C:\Users\Фасхутдинова Диляра\Desktop\Мои документы\Образование\RVIP\SocketTcpServer\bin\Debug\SocketTcpServer.exe.config
+C:\Users\Фасхутдинова Диляра\Desktop\Мои документы\Образование\RVIP\SocketTcpServer\bin\Debug\SocketTcpServer.exe
+C:\Users\Фасхутдинова Диляра\Desktop\Мои документы\Образование\RVIP\SocketTcpServer\bin\Debug\SocketTcpServer.pdb
+C:\Users\Фасхутдинова Диляра\Desktop\Мои документы\Образование\RVIP\SocketTcpServer\obj\Debug\SocketTcpServer.csprojResolveAssemblyReference.cache
+C:\Users\Фасхутдинова Диляра\Desktop\Мои документы\Образование\RVIP\SocketTcpServer\obj\Debug\SocketTcpServer.exe
+C:\Users\Фасхутдинова Диляра\Desktop\Мои документы\Образование\RVIP\SocketTcpServer\obj\Debug\SocketTcpServer.pdb
